@@ -1,0 +1,19 @@
+Powershell学习笔记
+
+
+2015/4/2
+1.	基本语法：
+a)	顺序语句：不需要分号，不需要；
+b)	逻辑控制语句：#类似C语言
+i.	If (condition) {
+statements
+} elseif (condition) {
+statements
+} else {
+statements
+}
+ii.	Switch (variable) {
+“value1”: statements
+“value2”: statements
+}
+c)	循环语句
